@@ -28,7 +28,7 @@
 
 ## Running the app
 
-$ docker build
+$ docker-compose build
 
 $ docker-compose up -d
 
